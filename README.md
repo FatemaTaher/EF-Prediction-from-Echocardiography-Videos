@@ -97,10 +97,10 @@ https://stanfordaimi.azurewebsites.net/datasets/834e1cd1-92f7-4268-9daa-d359198b
 ## Project Demo
 
 ### Dashboard Preview
-![Dashboard](images/Screenshot 2026-01-07 121138.png)
+![Dashboard](images/pic1.png)
 
 ### Sample Video Frames
-![Sample Frames](images/Screenshot 2026-01-07 121310.png)
+![Sample Frames](images/pic2.png)
 
 ---
 
