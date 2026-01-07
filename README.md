@@ -93,3 +93,18 @@ https://stanfordaimi.azurewebsites.net/datasets/834e1cd1-92f7-4268-9daa-d359198b
 - Gradio  
 
 ---
+
+## 🗂️ Project Structure
+EF-Prediction-from-Echocardiography-Videos/
+│
+├── checkpoints/
+│   └── best_ef_model.pth        # Trained 3D CNN + LSTM model checkpoint
+│
+├── FileList.csv                 # Video metadata / dataset indexing
+│
+├── Training.ipynb               # Model training & experimentation notebook
+│
+├── Interface.ipynb              # Gradio-based web application for EF prediction
+│
+└── README.md                    # Project documentation
+
